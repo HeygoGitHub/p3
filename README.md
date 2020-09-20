@@ -1,2 +1,3 @@
 # p3
-test repo
+test progect
+Тестовый проект
